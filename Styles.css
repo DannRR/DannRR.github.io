@@ -1,0 +1,27 @@
+
+        body {
+            background-color: black;
+            color: white;
+        }
+        .navbar {
+            background-color: #000;
+        }
+        .navbar-nav .nav-link {
+            color: white;
+            text-align: center;
+        }
+        .carousel-item img {
+            height: 100vh;
+            object-fit: cover;
+        }
+        .form-container {
+            background-color: #000;
+            padding: 20px;
+            border: 1px solid white;
+        }
+        .gallery img {
+            width: 100%;
+            height: auto;
+        }
+ 
+
